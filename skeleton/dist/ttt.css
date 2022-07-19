@@ -1,0 +1,34 @@
+li {
+    background-color: lightblue;
+}
+.unplayed:hover {
+    background-color: yellow;
+}
+
+h1{
+    margin: auto;
+    text-align: center;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* padding: 100px; */
+}
+
+li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+li p{
+    font-family: arial;
+    font-size: 80px;
+ 
+}
+
+.played {
+    background-color: #4b45ff ;
+}
